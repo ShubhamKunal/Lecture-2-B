@@ -31,4 +31,5 @@ Paragraph paragraph = new Paragraph(List.of(
     
 Вызов `paragraph.toMarkdown(new StringBuilder())` должен заполнять переданный `StringBuilder` следующим содержимым:
 `__1~2*34*5~6__`
+
 7) Разработанные классы должны находиться в пакете `ru.ifmo.backend_2021.markup`.
